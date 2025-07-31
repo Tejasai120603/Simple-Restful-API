@@ -32,5 +32,8 @@ This project is a simple RESTful API that features a root route returning a gree
 ## Author
 Tejasai120603
 
+## Contact 
+tejasairavikumar@gmail.com
+
 ## License
 This project is licensed under the MIT License.

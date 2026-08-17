@@ -168,7 +168,8 @@ Through this project, I gained practical experience in:
 Final Year B.Tech Student | Electronics and Computer Engineering
 
 - GitHub: https://github.com/Tejasai120603
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: (https://www.linkedin.com/in/teja-sai-yallamelli-a5685b320/)
+
 
 ## ⭐ Support
 
